@@ -25,4 +25,4 @@ To use this project, you need [mention any prerequisites]. Follow the instructio
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/array-operations.git
+   git clone https://github.com/MDAEJA/Assigment_npm_package_array_operation.git
